@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+comfort_model.pkl
+predictions_log.csv
